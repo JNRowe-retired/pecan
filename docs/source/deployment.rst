@@ -18,7 +18,7 @@ probably vary.
 Installing Pecan
 ----------------
 
-A few popular options are avaliable for installing Pecan in production
+A few popular options are available for installing Pecan in production
 environments:
 
 *  Using `setuptools/distribute

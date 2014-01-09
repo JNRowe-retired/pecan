@@ -84,7 +84,7 @@ Sometimes it's not enough to make assertions about the response body of certain
 requests.  To aid in inspection, Pecan applications provide a special set of
 "testing variables" to any :class:`webtest.TestResponse` object.
 
-Let's suppose that your Pecan applicaton had some controller which took a 
+Let's suppose that your Pecan application had some controller which took a 
 ``name`` as an optional argument in the URL.
 
 ::

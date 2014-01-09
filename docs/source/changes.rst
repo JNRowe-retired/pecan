@@ -96,7 +96,7 @@
 * Fix a bug in ``SecureController``.  Resolves #131.
 * Extract debug middleware static file dependencies into physical files.
 * Improve a test that can fail due to a race condition.
-* Improve documentation about configation format and ``app.py``.
+* Improve documentation about configuration format and ``app.py``.
 * Add support for content type detection via HTTP Accept headers.
 * Correct source installation instructions in ``README``.
 * Fix an incorrect code example in the Hooks documentation.
